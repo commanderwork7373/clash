@@ -38,8 +38,12 @@ DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN,warthog.herominers.com
 
 # DOMAIN-SUFFIX,googleapis.com
 # DOMAIN-SUFFIX,googleapis.cn
 # DOMAIN-SUFFIX,gstatic.com
 # DOMAIN-SUFFIX,signalr.net
+
+
+
